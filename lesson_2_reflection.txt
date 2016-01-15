@@ -2,15 +2,15 @@
 
   There will be an empty repo. Git does not commit anything in the initial       directory the user has to invoke the commit. In this way he can add a     commit message and select the files which ought to be in the repo.
 
-How is the staging area different from the working directory and the repository?
- What value do you think it offers?
+How is the staging area different from the working directory and the repository?  What value do you think it offers?
 
 
   Only those files from the working directory are in the staging area hich   were added by the command add. However it is a pre-stage of the   repository with the same connection mentioned just before. 
 
 
-How can you use the staging area to make sure you have one commit per logical
- change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+  Je sais pas franchement.
 
 
 
