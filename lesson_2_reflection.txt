@@ -26,3 +26,5 @@ What is the result of merging two branches together? Why do we represent it in t
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
  manually?
+
+  One pro for auto merge is that git saves us time by doing the simple and dull tasks of merging. One pro for manual merging is that one has the full influence over the merging.
